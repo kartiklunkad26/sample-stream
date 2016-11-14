@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: file-source-rabbit
+Implementation-Version: 1.1.0.BUILD-SNAPSHOT
+Built-By: kartiklunkad
+Implementation-Vendor-Id: org.springframework.cloud.stream.app
+Build-Jdk: 1.8.0_73
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
